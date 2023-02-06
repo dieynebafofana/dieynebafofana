@@ -1,4 +1,4 @@
-Bonjour à tous  👋😁 
+Bonjour à tous ✌️
 
 <!--
 **dieynebafofana/dieynebafofana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
