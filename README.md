@@ -1,11 +1,18 @@
 Bonjour à tous ✌️
 
-(https://github.com/dieynebafofana/dieynebafofana/main/bannercode1.jpg)
+
 
 <!--
 **dieynebafofana/dieynebafofana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+Je m'appelle Dieyneba, j'ai choisi de me reconvertir dans le développement web, qui est un domaine qui m'a toujours intéréssée. J'ai pu faire une formation  professionnelle ou j'ai pu développer les compétences suivantes :
+
+
+![image](https://user-images.githubusercontent.com/94062526/216983904-4ec85c6a-95de-4bb1-9cff-653f4f80712a.png)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
