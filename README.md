@@ -2,11 +2,6 @@ Bonjour à tous ✌️
 
 
 
-<!--
-**dieynebafofana/dieynebafofana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Je m'appelle Dieyneba, j'ai choisi de me reconvertir dans le développement web, qui est un domaine qui m'a toujours intéréssée. J'ai pu faire une formation  professionnelle ou j'ai pu développer les compétences suivantes :
 
 
