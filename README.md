@@ -10,6 +10,7 @@ Je m'appelle Dieyneba, j'ai choisi de me reconvertir dans le développement web,
 
 
 ![javascript fond ecran](https://user-images.githubusercontent.com/94062526/216989727-f789ca98-45a4-4734-81e2-25706226cc09.jpeg) 
+![image](https://user-images.githubusercontent.com/94062526/217000586-d10b3d42-8b82-49df-8782-81c60545a489.png)
 
 
 
