@@ -1,6 +1,6 @@
 Bonjour à tous ✌️
 
-# ! [dieynebafofana](https://github.com/dieynebafofana/dieynebafofana/blob/main/banner%20code%201.jpg)
+(https://github.com/dieynebafofana/dieynebafofana/main/bannercode1.jpg)
 
 <!--
 **dieynebafofana/dieynebafofana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
