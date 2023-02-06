@@ -9,7 +9,7 @@ Je m'appelle Dieyneba, j'ai choisi de me reconvertir dans le développement web,
 
 
 
- <img src="https://user-images.githubusercontent.com/94062526/216989727-f789ca98-45a4-4734-81e2-25706226cc09.jpeg" width="150px" height="70px" objectif-fit="cover"/>   <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/react%20(1).png" width="70px" height="70px" />
+ <img src="https://user-images.githubusercontent.com/94062526/216989727-f789ca98-45a4-4734-81e2-25706226cc09.jpeg" width="150px" height="70px" objectif-fit="cover"/>   <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/react%20(1).png" width="70px" height="70px" />  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/sass.png" width="100px" height="70px" objectif-fit="cover"/>
 
 
 
