@@ -1,7 +1,7 @@
 Bonjour à tous ✌️
 
 
-![image](https://github.com/dieynebafofana/dieynebafofana/master/html-5.png)
+![image](https://github.com/dieynebafofana/dieynebafofana/blob/master/html-5.png)
 
 Je m'appelle Dieyneba, j'ai choisi de me reconvertir dans le développement web, qui est un domaine qui m'a toujours intéréssée. J'ai pu faire une formation  professionnelle ou j'ai pu développer les compétences suivantes :
 
