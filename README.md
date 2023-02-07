@@ -11,23 +11,25 @@
 <p>J'ai choisi de me reconvertir dans le développement web, qui est un domaine qui m'a toujours interéssée. J'ai donc suivi une formation  professionnelle où j'ai pu développer les compétences suivantes :<p/>
 
 
-
-<p align="center">
+<div align="center">
 <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/html-5%20(1).png" width="70px" height="70px" border-radius="25px"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/css-3.png" width="70px" height="70px" />  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/js.png" width="70px" height="70px" /> 
   <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/react%20(1).png" width="70px" height="70px" />  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/sass.png" width="80px" height="70px" objectif-fit="cover"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/nodejs.png"  width="80px" height="70px" objectif-fit="cover"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/MongoDB-Logo.png"  width="100px" height="70px" objectif-fit="cover"/>
  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/express-logo-397x180.png" width="120px" height="70px" />
-<p/>
+<div/>
 
 
 ## Mes prochaines compétences 
-<p align="center">
+  
+<div align="center">
 <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/java.png" width="80px" height="70px" />  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/bootstrapIcon.png" width="80px" height="70px" /> <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/logo-mysql.png" width="80px" height="70px" />
-<p/>
+<div/>
 
 
 
 
 ## 📫 Je suis reste joignable
-<p align="center">
-<img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/linkedin.png" ("www.linkedin.com/in/dieyneba-fofana") width="60px" height="60px" />  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/facebook.png" width="60px" height="60px" /> <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/outlook%20(1).png" width="60px" height="60px" />
-<p/>
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/dieyneba-fofana">
+<img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/linkedin.png" width="60px" height="60px"/> <a/> <a href="mailto:dieynebafofana@hotmail.fr"> <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/outlook%20(1).png" width="60px" height="60px" /><a/>
+<div/>
