@@ -8,7 +8,7 @@
 
 - 🔭 Je travaille actuellement sur la mise en place de mon portfolio.
 
-<p>J'ai choisi de me reconvertir dans le développement web, qui est un domaine qui m'a toujours interéssée. J'ai donc suivi une formation  professionnelle où j'ai pu développer les compétences suivantes :<p/>
+<p>J'ai choisi de me reconvertir dans le développement web, qui est un domaine qui m'a toujours intéressée. J'ai donc suivi une formation  professionnelle où j'ai pu développer les compétences suivantes :<p/>
 
 
 <div>
