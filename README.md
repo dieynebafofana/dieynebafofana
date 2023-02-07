@@ -10,7 +10,7 @@ Je m'appelle Dieyneba, j'ai choisi de me reconvertir dans le développement web,
 
 
 
-
+<img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/html-5%20(1).png" width="70px" height="70px" />
   <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/react%20(1).png" width="70px" height="70px" />  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/sass.png" width="80px" height="70px" objectif-fit="cover"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/nodejs.png"  width="80px" height="70px" objectif-fit="cover"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/MongoDB-Logo.png"  width="100px" height="70px" objectif-fit="cover"/>
  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/express-logo-397x180.png" width="150px" height="70px" />
 
