@@ -19,8 +19,7 @@
 
 -  <h2> Mes prochaines compétences <h2/>
 
-<p>J'aimerais acquérir les compétences suivantes :<p/>
-
+<img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/java.png" width="80px" height="70px" />
 
 - 🔭 Je travaille actuellement sur la mise en place de mon portfolio.
 
