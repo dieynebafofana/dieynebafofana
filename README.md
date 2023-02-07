@@ -27,7 +27,7 @@
 
 
 
-## 📫 Je suis reste joignable
+## 📫 Je suis joignable
   
 <div align="center">
   <a href="https://www.linkedin.com/in/dieyneba-fofana">
