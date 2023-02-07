@@ -28,5 +28,7 @@
 
 
 ## 📫 Je suis reste joignable
-<img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/linkedin.png" width="60px" height="60px" /> <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/facebook.png" width="60px" height="60px" />
-
+<p align="center">
+<a href="www.linkedin.com/in/dieyneba-fofana">
+<img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/linkedin.png" width="60px" height="60px" /> <a/> <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/facebook.png" width="60px" height="60px" /> <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/outlook%20(1).png" width="60px" height="60px" />
+<p/>
