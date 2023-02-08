@@ -8,8 +8,9 @@
 
 - 🔭 Je travaille actuellement sur la mise en place de mon portfolio.
 
-<p>J'ai choisi de me reconvertir dans le développement web, qui est un domaine qui m'a toujours intéressée. J'ai donc suivi une formation  professionnelle où j'ai pu développer les compétences suivantes :<p/>
+<p>Intéressée par le développement web depuis plusieurs années déjà, j'ai choisi de faire une reconversion professionnelle dans ce domaine.<p/>
 
+## Mes compétences actuelles
 
 <div>
 <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/html-5%20(1).png" width="70px" height="70px" border-radius="25px"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/css-3.png" width="70px" height="70px"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/js.png" width="70px" height="70px"/> 
