@@ -14,7 +14,7 @@
 
 <div>
 <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/html-5%20(1).png" width="70px" height="70px" border-radius="25px"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/css-3.png" width="70px" height="70px"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/js.png" width="70px" height="70px"/> 
-  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/react%20(1).png" width="70px" height="70px"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/sass.png" width="80px" height="70px" objectif-fit="cover"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/nodejs.png"  width="80px" height="70px" objectif-fit="cover"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/MongoDB-Logo.png"  width="100px" height="70px" objectif-fit="cover"/>
+  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/react%20(1).png" width="70px" height="70px"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/sass.png" width="80px" height="70px" objectif-fit="cover"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/nodejs.png"  width="80px" height="70px" objectif-fit="cover"/>  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/iconflexbox.jpg" width="120px" height="70px" />  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/MongoDB-Logo.png"  width="100px" height="70px" objectif-fit="cover"/>
  <img src="https://github.com/dieynebafofana/dieynebafofana/blob/main/express-logo-397x180.png" width="120px" height="70px"/>
 <div/>
 
