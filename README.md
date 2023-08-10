@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/94062526/216990094-bca769b2-3dd1-45b1-acdf-c62939ddc522.jpg" width="100%" height="300px" objectif-fit="cover" />
 
-/*![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dieynebafofana&show_icons=true&theme=radical)*/
+<!--/*![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dieynebafofana&show_icons=true&theme=radical)*/-->
 
 ## Au sujet de moi
 
